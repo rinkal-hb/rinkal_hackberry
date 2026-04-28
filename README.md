@@ -80,5 +80,16 @@
   - Secure Authentication
 ---
 
+### 🔹 Dawamak – Smart Attendance & Workforce Tracking System
+- 🧰 Tech Stack: Laravel, MySQL, jQuery, AJAX, Bootstrap, Cloud (AWS S3)
+- 📌 Description: A SaaS-based workforce management system that enables businesses to track employee attendance, location, and productivity in real time using GPS and image verification.
+- 🚀 Features:
+  - GPS-based Attendance Tracking (Check-in / Check-out)
+  - Photo Verification for secure attendance
+  - Real-time Employee Location Monitoring
+  - Admin Dashboard with Analytics & Reports
+  - Leave & Absence Management
+  - Cloud-based Secure Data Storage
+  - Role-based Access (Admin /Company /Employee)
 
 
