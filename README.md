@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: parmarrinkal2811@email.com  
+- 📧 Email: rinkal.hackberry@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/rinkal-parmar-laravel  
 
 ---
